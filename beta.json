@@ -1,0 +1,11 @@
+{
+  "version": "v1.0.0",
+  "notes": "Your Release Notes go here. This text will show up in the VexTweaks changelog modal!",
+  "pub_date": "2026-07-31T11:14:11Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "PASTE_THE_CONTENTS_OF_YOUR_SIG_FILE_HERE",
+      "url": "https://github.com/YOUR-USERNAME/VexTweaks-Releases/releases/download/v1.0.0/VexTweaks_1.0.0_x64.zip"
+    }
+  }
+}
